@@ -1,0 +1,133 @@
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 1\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 2\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 3\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 4\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 5\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 6\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\karrr\Desktop\Лабораторные работы\Параллельные вычисления\Основная методичка\Лабораторная работа 7\lab_1\Program\obj\Debug\net7.0\ref\Program.dll
